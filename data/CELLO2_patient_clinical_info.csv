@@ -1,0 +1,184 @@
+Patient,ID_in_Cello2,Source,Molecular.Pathology.of.Initial.Tumor,Molecular.Pathology.of.Recurrent.Tumor,Grade.of.Initial.Tumor,Grade.of.Recurrent.Tumor,Age.at.initial.diagnosis,Gender,Race,TMZ.Treatment.Before.Recurrence,Overall.Survival..OS..months.,Censor.of.OS..0.alive.1.dead.,Surgerical.Interval..months.,Hypermutation.of.Recurrent.Tumor,IDH.mutation,X1p.19q.co.deletion
+101,PS291,NM2019,Anaplastic Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,Anaplastic Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,IV,IV,32,M,NA,1,45.6,1,43.2,No,IDHmut,codel
+104,PS294,NM2019,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,42,F,NA,1,46.5,0,35.27,No,IDHwt,noncodel
+13,PS279,NM2019,Anaplastic Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,Anaplastic Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,IV,IV,55,F,NA,1,55.6,1,15.47,No,IDHmut,codel
+20,PS280,NM2019,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,63,M,NA,1,34,1,18.47,No,IDHwt,noncodel
+21,PS281,NM2019,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,59,M,NA,1,10.3,1,1.43,No,IDHwt,noncodel
+3,PS278,NM2019,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,41,M,NA,1,25.4,0,5.3,No,IDHwt,noncodel
+46,PS284,NM2019,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,64,F,NA,1,45.4,0,7.03,No,IDHwt,noncodel
+53,PS285,NM2019,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,70,M,NA,1,31.3,1,23.53,No,IDHwt,noncodel
+55,PS286,NM2019,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,67,M,NA,1,23.1,0,3.73,No,IDHwt,noncodel
+56,PS287,NM2019,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,54,F,NA,1,19.6,1,9.8,No,IDHwt,noncodel
+69,PS288,NM2019,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,66,F,NA,1,15.3,1,7.77,No,IDHwt,noncodel
+CUHKP1,PSX15,CUHK,Glioblastoma; IDH-mutant,Glioblastoma; IDH-mutant,IV,IV,33,F,Asian,1,48.73333333,1,26.6,No,IDHmut,noncodel
+CUHKP2,PSX16,CUHK,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,54,M,Asian,No Information,16.23333333,1,8.8,No,IDHwt,noncodel
+CUHKP3,PSX17,CUHK,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-mutant,IV,IV,57,M,Asian,No Information,42.7,0,8.433333333,No,IDHmut,noncodel
+CUHKP4,PSX18,CUHK,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,62,M,Asian,No Information,25.1,1,17.6,No,IDHwt,noncodel
+CUHKP6,PSX20,CUHK,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,57,M,Asian,No Information,10.3,1,4,No,IDHwt,noncodel
+P10,PS275,SMCnew,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,49,M,Asian,1,14.73333333,0,NA,No,IDHwt,noncodel
+P11,PS276,SMCnew,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,41,F,Asian,1,12.66666667,1,NA,No,IDHwt,noncodel
+P2,PS267,SMCnew,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,59,F,Asian,1,33.06666667,1,NA,Yes,IDHwt,noncodel
+P3,PS268,SMCnew,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,43,M,Asian,1,16.13333333,1,NA,No,IDHwt,noncodel
+P4,PS269,SMCnew,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,67,M,Asian,1,68.4,0,NA,No,IDHwt,noncodel
+P5,PS270,SMCnew,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,43,M,Asian,1,18.03333333,1,NA,No,IDHwt,noncodel
+P6,PS271,SMCnew,Anaplastic Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,Anaplastic Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,III,III,53,F,Asian,1,218.6666667,1,NA,Yes,IDHmut,codel
+P7,PS272,SMCnew,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,60,M,Asian,1,10.6,0,NA,No,IDHwt,noncodel
+PS117,PS117,CGGA,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,37,M,Asian,1,14,1,8.4,No,IDHwt,noncodel
+PS118,PS118,CGGA,Diffuse Astrocytoma; IDH-mutant,Glioblastoma; IDH-mutant,II,IV,49,M,Asian,1,50.23333333,1,46.8,No,IDHmut,noncodel
+PS122,PS122,CGGA,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,49,M,Asian,1,16.13333333,1,10.8,No,IDHwt,noncodel
+PS123,PS123,CGGA,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,60,M,Asian,1,26.96666667,1,20.4,No,IDHwt,noncodel
+PS124,PS124,CGGA,Anaplastic Astrocytoma; IDH-mutant,Glioblastoma; IDH-mutant,III,IV,33,M,Asian,0,27.33333333,1,12,No,IDHmut,noncodel
+PS125,PS125,CGGA,Glioblastoma; IDH-mutant,Glioblastoma; IDH-mutant,IV,IV,37,F,Asian,1,19.5,1,18,No,IDHmut,noncodel
+PS126,PS126,CGGA,Diffuse Astrocytoma; IDH-mutant,Glioblastoma; IDH-mutant,II,IV,48,F,Asian,1,87.83333333,1,80.4,No,IDHmut,noncodel
+PS127,PS127,CGGA,Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,Anaplastic Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,II,IV,45,F,Asian,1,87.76666667,1,62.4,No,IDHmut,codel
+PS130,PS130,CGGA,Glioblastoma; IDH-mutant,Glioblastoma; IDH-mutant,IV,IV,31,M,Asian,1,17.76666667,1,12,No,IDHmut,noncodel
+PS132,PS132,CGGA,Diffuse Astrocytoma; IDH-mutant,Glioblastoma; IDH-mutant,II,IV,43,F,Asian,1,57.5,1,46.8,No,IDHmut,noncodel
+PS133,PS133,CGGA,Diffuse Astrocytoma; IDH-mutant,Anaplastic Astrocytoma; IDH-mutant,II,III,38,M,Asian,1,59.76666667,1,27.6,No,IDHmut,noncodel
+PS135,PS135,CGGA,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,67,M,Asian,1,34.06666667,1,22.8,No,IDHwt,noncodel
+PS136,PS136,CGGA,Diffuse Astrocytoma; IDH-mutant,Glioblastoma; IDH-mutant,II,IV,54,M,Asian,0,80.3,1,21.6,No,IDHmut,noncodel
+PS137,PS137,CGGA,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,44,F,Asian,1,22.63333333,1,15.6,Yes,IDHwt,noncodel
+PS138,PS138,CGGA,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,29,F,Asian,1,27.5,1,21.6,Yes,IDHwt,noncodel
+PS139,PS139,CGGA,Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,II,IV,37,M,Asian,1,100.1666667,1,NA,No,IDHmut,codel
+PS140,PS140,CGGA,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,47,F,Asian,1,41.2,1,14.4,No,IDHwt,noncodel
+PS141,PS141,CGGA,Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,Anaplastic Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,II,IV,46,M,Asian,1,94.4,1,NA,No,IDHmut,codel
+PS142,PS142,CGGA,Diffuse Astrocytoma; IDH-mutant,Anaplastic Astrocytoma; IDH-mutant,II,III,41,F,Asian,No Information,29.33333333,1,NA,No,IDHmut,noncodel
+PS143,PS143,CGGA,Anaplastic Astrocytoma; IDH-wildtype,Glioblastoma; IDH-wildtype,III,IV,56,M,Asian,1,50.1,1,12,Yes,IDHwt,noncodel
+PS144,PS144,CGGA,Diffuse Astrocytoma; IDH-mutant,Glioblastoma; IDH-mutant,II,IV,32,M,Asian,1,58.83333333,1,28.8,No,IDHmut,noncodel
+PS146,PS146,CGGA,Anaplastic Astrocytoma; IDH-wildtype,Glioblastoma; IDH-wildtype,III,IV,29,F,Asian,1,15.7,1,14.4,Yes,IDHwt,noncodel
+PS147,PS147,CGGA,Diffuse Astrocytoma; IDH-mutant,Diffuse Astrocytoma; IDH-mutant,II,IV,63,M,Asian,1,122.8666667,1,NA,No,IDHmut,noncodel
+PS148,PS148,CGGA,Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,Anaplastic Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,II,IV,41,M,Asian,1,85.06666667,1,NA,No,IDHmut,codel
+PS149,PS149,CGGA,Anaplastic Astrocytoma; IDH-mutant,Glioblastoma; IDH-mutant,III,IV,46,M,Asian,1,53.7,1,37.2,No,IDHmut,noncodel
+PS150,PS150,CGGA,Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,Anaplastic Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,II,IV,51,M,Asian,1,83.7,1,NA,No,IDHmut,codel
+PS151,PS151,CGGA,Diffuse Astrocytoma; IDH-mutant,Glioblastoma; IDH-mutant,II,IV,27,M,Asian,1,36.76666667,1,25.2,No,IDHmut,noncodel
+PS152,PS152,CGGA,Diffuse Astrocytoma; IDH-mutant,Anaplastic Astrocytoma; IDH-mutant,II,III,38,M,Asian,1,42.86666667,1,38.4,No,IDHmut,noncodel
+PS153,PS153,CGGA,Anaplastic Astrocytoma; IDH-mutant,Glioblastoma; IDH-mutant,III,IV,44,M,Asian,1,86.6,1,55.2,No,IDHmut,noncodel
+PS155,PS155,CGGA,Anaplastic Astrocytoma; IDH-mutant,Glioblastoma; IDH-mutant,III,IV,51,F,Asian,No Information,33.6,1,18,No,IDHmut,noncodel
+PS156,PS156,CGGA,Diffuse Astrocytoma; IDH-mutant,Glioblastoma; IDH-mutant,II,IV,52,M,Asian,1,41.76666667,1,10.8,No,IDHmut,noncodel
+PS157,PS157,CGGA,Glioblastoma; IDH-mutant,Glioblastoma; IDH-mutant,IV,IV,38,M,Asian,1,45.1,1,11,Yes,IDHmut,noncodel
+PS158,PS158,CGGA,Anaplastic Astrocytoma; IDH-wildtype,Anaplastic Astrocytoma; IDH-wildtype,III,III,51,F,Asian,1,78.23333333,1,15.63,No,IDHwt,noncodel
+PS159,PS159,CGGA,Diffuse Astrocytoma; IDH-mutant,Diffuse Astrocytoma; IDH-mutant,II,II,25,M,Asian,No Information,110.5,0,39.63,No,IDHmut,noncodel
+PS160,PS160,CGGA,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,61,F,Asian,1,18.9,1,8.4,No,IDHwt,noncodel
+PS161,PS161,CGGA,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,50,F,Asian,1,20.13333333,1,18.93,No,IDHwt,noncodel
+PS162,PS162,CGGA,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,46,M,Asian,1,12.7,1,7.17,No,IDHwt,noncodel
+PS163,PS163,CGGA,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,45,F,Asian,1,13.36666667,1,7.2,No,IDHwt,noncodel
+PS164,PS164,CGGA,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,40,M,Asian,1,26.83333333,1,11.93,No,IDHwt,noncodel
+PS165,PS165,CGGA,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,49,F,Asian,No Information,16.66666667,1,12.6,No,IDHwt,noncodel
+PS166,PS166,CGGA,Anaplastic Astrocytoma; IDH-mutant,Glioblastoma; IDH-mutant,III,IV,43,M,Asian,1,68.9,1,52.3,No,IDHmut,noncodel
+PS167,PS167,CGGA,Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,Anaplastic Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,II,III,54,M,Asian,1,242.5,1,46.47,No,IDHmut,codel
+PS168,PS168,CGGA,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,65,F,Asian,1,43.26666667,1,17.87,No,IDHwt,noncodel
+PS169,PS169,CGGA,Diffuse Astrocytoma; IDH-mutant,Anaplastic Astrocytoma; IDH-mutant,II,III,20,M,Asian,1,51.13333333,1,32.77,No,IDHmut,noncodel
+PS170,PS170,CGGA,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,50,M,Asian,1,79.1,1,61.73,No,IDHwt,noncodel
+PS171,PS171,CGGA,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,42,M,Asian,1,15.66666667,1,11.93,No,IDHwt,noncodel
+PS172,PS172,CGGA,Anaplastic Astrocytoma; IDH-mutant,Anaplastic Astrocytoma; IDH-mutant,III,III,39,F,Asian,1,51.1,1,19.87,No,IDHmut,noncodel
+PS173,PS173,CGGA,Anaplastic Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,Anaplastic Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,III,IV,38,M,Asian,0,42.16666667,1,38.47,No,IDHmut,codel
+PS174,PS174,CGGA,Glioblastoma; IDH-mutant,Glioblastoma; IDH-mutant,IV,IV,45,F,Asian,1,13.8,1,10.83,No,IDHmut,noncodel
+PS175,PS175,CGGA,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,24,M,Asian,1,32.96666667,1,6.27,No,IDHwt,noncodel
+PS176,PS176,CGGA,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,55,M,Asian,1,15.33333333,1,10.73,No,IDHwt,noncodel
+PS177,PS177,CGGA,Glioblastoma; IDH-mutant,Glioblastoma; IDH-mutant,IV,IV,33,F,Asian,1,39.63333333,1,NA,No,IDHmut,noncodel
+PS178,PS178,CGGA,Diffuse Astrocytoma; IDH-mutant,Glioblastoma; IDH-mutant,II,IV,26,M,Asian,1,28.66666667,1,17,No,IDHmut,noncodel
+PS179,PS179,CGGA,Glioblastoma; IDH-mutant,Glioblastoma; IDH-mutant,IV,IV,60,M,Asian,1,23.13333333,1,17.93,No,IDHmut,noncodel
+PS180,PS180,CGGA,Anaplastic Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,Anaplastic Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,III,III,34,M,Asian,1,98.3,0,50.9,No,IDHmut,codel
+PS181,PS181,CGGA,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,15,M,Asian,1,62.53333333,0,22.23,Yes,IDHwt,noncodel
+PS182,PS182,CGGA,Diffuse Astrocytoma; IDH-mutant,Glioblastoma; IDH-mutant,II,IV,38,M,Asian,1,19.86666667,1,15.23,Yes,IDHmut,noncodel
+PS183,PS183,CGGA,do not use,do not use,do not use,do not use,do not use,do not use,do not use,do not use,do not use,do not use,do not use,do not use,do not use,do not use
+PS184,PS184,CGGA,Diffuse Astrocytoma; IDH-mutant,Glioblastoma; IDH-mutant,II,IV,59,M,Asian,1,142.6,0,112,No,IDHmut,noncodel
+PS185,PS185,CGGA,Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,Anaplastic Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,II,III,47,F,Asian,1,109.9666667,1,77.43333333,No,IDHmut,codel
+PS186,PS186,CGGA,Diffuse Astrocytoma; IDH-mutant,Glioblastoma; IDH-mutant,II,IV,29,F,Asian,1,107.9666667,1,90.7,No,IDHmut,noncodel
+PS187,PS187,CGGA,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,43,M,Asian,1,17.3,1,9.7,No,IDHwt,noncodel
+PS188,PS188,CGGA,Diffuse Astrocytoma; IDH-mutant,Glioblastoma; IDH-mutant,II,IV,44,F,Asian,1,103.5666667,1,88.93333333,No,IDHmut,noncodel
+PS189,PS189,CGGA,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,67,M,Asian,1,102.4666667,1,29.9,No,IDHwt,noncodel
+PS190,PS190,CGGA,Glioblastoma; IDH-mutant,Glioblastoma; IDH-mutant,IV,IV,46,M,Asian,1,27.06666667,1,NA,Yes,IDHmut,noncodel
+PSX01,PSX01,CGGA,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,46,M,Asian,1,10.83333333,0,NA,No,IDHwt,noncodel
+PSX02,PSX02,CGGA,Diffuse Astrocytoma; IDH-mutant,Glioblastoma; IDH-mutant,II,IV,32,M,Asian,1,32.96666667,0,NA,Yes,IDHmut,noncodel
+PSX05,PSX05,CGGA,Diffuse Astrocytoma; IDH-wildtype,Glioblastoma; IDH-wildtype,II,IV,55,M,Asian,1,41.1,0,NA,No,IDHwt,noncodel
+PSX07,PSX07,CGGA,Glioblastoma; IDH-mutant,Glioblastoma; IDH-mutant,IV,IV,26,M,Asian,1,NA,NA,19.2,Yes,IDHmut,noncodel
+PSX09,PSX09,CGGA,Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,II,II,48,M,Asian,0,59.33333333,0,88.5,No,IDHmut,codel
+PSX13,PSX13,CGGA,Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,Anaplastic Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,II,III,40,F,Asian,0,21.06666667,0,NA,No,IDHmut,codel
+PSX14,PSX14,CGGA,Glioblastoma; IDH-mutant,Glioblastoma; IDH-mutant,IV,IV,44,M,Asian,1,NA,NA,NA,No,IDHmut,noncodel
+R001,PS001,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,70,M,non-Asian,1,6.6,1,5.166666667,No,IDHwt,noncodel
+R002,PS002,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,42,M,non-Asian,1,17.73,1,10,No,IDHwt,noncodel
+R003,PS003,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,67,M,non-Asian,1,17.07,1,8.666666667,No,IDHwt,noncodel
+R004,PS004,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,50,F,non-Asian,1,27.2,1,5.8,No,IDHwt,noncodel
+R005,PS005,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,58,F,non-Asian,1,12.8,1,5.2,No,IDHwt,noncodel
+R006,PS006,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,59,M,non-Asian,1,17.53,1,11.3,No,IDHwt,noncodel
+R007,PS007,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,69,M,non-Asian,1,21.27,1,11.5,Yes,IDHwt,noncodel
+R008,PS008,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,46,F,non-Asian,1,15.27,1,10.1,No,IDHwt,noncodel
+R009,PS009,NG2016,Glioblastoma; IDH-mutant,Glioblastoma; IDH-mutant,IV,IV,67,F,non-Asian,1,46.37,1,40.2,No,IDHmut,noncodel
+R010,PS010,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,50,M,non-Asian,1,22.8,1,16.53333333,Yes,IDHwt,noncodel
+R012,PS012,NG2016,Glioblastoma; IDH-mutant,Glioblastoma; IDH-mutant,IV,IV,49,M,non-Asian,1,45.17,1,31.86666667,No,IDHmut,noncodel
+R019,PS019,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,48,M,non-Asian,1,18.4,1,8.7,No,IDHwt,noncodel
+R020,PS020,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,52.5,M,non-Asian,1,40.9,1,32.8,Yes,IDHwt,noncodel
+R021,PS021,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,44.5,F,non-Asian,1,13.43,1,11.3,Yes,IDHwt,noncodel
+R022,PS022,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,35,F,non-Asian,1,141.87,1,10.33333333,Yes,IDHwt,noncodel
+R023,PS023,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,64,M,non-Asian,1,18.7,1,11.73333333,No,IDHwt,noncodel
+R024,PS024,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,46.4,M,non-Asian,1,16.67,1,6.533333333,No,IDHwt,noncodel
+R025,PS025,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,67,F,non-Asian,1,4.37,1,0.8,No,IDHwt,noncodel
+R026,PS026,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,63.7,M,non-Asian,1,18.73,1,16.33333333,No,IDHwt,noncodel
+R027,PS027,NG2016,Glioblastoma; IDH-mutant,Glioblastoma; IDH-mutant,IV,IV,62,F,non-Asian,1,38.77,1,8.066666667,Yes,IDHmut,noncodel
+R029,PS029,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,52.3,M,non-Asian,1,17,1,7.733333333,No,IDHwt,noncodel
+R030,PS030,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,63.9,F,non-Asian,1,48.27,1,27.06666667,No,IDHwt,noncodel
+R033,PS033,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,62.5,M,non-Asian,1,10.57,1,7.366666667,No,IDHwt,noncodel
+R034,PS034,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,72.8,F,non-Asian,0,7.5,1,2.233333333,No,IDHwt,noncodel
+R035,PS035,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,48,M,non-Asian,0,12,1,1.766666667,No,IDHwt,noncodel
+R038,PS038,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,60.3,F,non-Asian,0,16.17,1,14.93333333,No,IDHwt,noncodel
+R042,PS042,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,36,M,non-Asian,1,14.33,1,2.333333333,No,IDHwt,noncodel
+R056,PS056,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,42,F,Asian,1,60.66666667,0,24.1,No,IDHwt,noncodel
+R059,PS059,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,37,F,Asian,1,49,1,19,No,IDHwt,noncodel
+R060,PS060,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,32,M,Asian,1,38.83333333,0,14.3,No,IDHwt,noncodel
+R061,PS061,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,48,M,Asian,1,34.83333333,1,2.266666667,No,IDHwt,noncodel
+R063,PS063,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,34,F,Asian,1,32.66666667,0,29.66666667,No,IDHwt,noncodel
+R064,PS064,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,56,F,Asian,1,42.26666667,0,8.833333333,No,IDHwt,noncodel
+R065,PS065,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,38,F,Asian,1,25.8,1,14.93333333,No,IDHwt,noncodel
+R066,PS066,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,51,M,Asian,1,23.26666667,0,14.23333333,No,IDHwt,noncodel
+R067,PS067,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,51,M,Asian,1,22.03333333,1,6.566666667,No,IDHwt,noncodel
+R068,PS068,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,74,M,Asian,1,19.06666667,1,15.63333333,No,IDHwt,noncodel
+R070,PS070,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,72,F,Asian,1,16.63333333,0,6.666666667,No,IDHwt,noncodel
+R071,PS071,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,65,M,Asian,1,15.53333333,1,11.03333333,No,IDHwt,noncodel
+R072,PS072,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,74,M,Asian,1,13.83333333,1,5.366666667,No,IDHwt,noncodel
+R074,PS074,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,41,M,Asian,1,11.96666667,1,6.866666667,No,IDHwt,noncodel
+R076,PS076,NG2016,Glioblastoma; IDH-mutant,Glioblastoma; IDH-mutant,IV,IV,40,M,Asian,1,57.6,1,2.6,No,IDHmut,noncodel
+R077,PS077,NG2016,Glioblastoma; IDH-mutant,Glioblastoma; IDH-mutant,IV,IV,44,M,Asian,1,45,1,16,Yes,IDHmut,noncodel
+R078,PS078,NG2016,Glioblastoma; IDH-mutant,Glioblastoma; IDH-mutant,IV,IV,39,M,Asian,1,81.46666667,1,28.63333333,No,IDHmut,noncodel
+R080,PS080,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,60,M,Asian,1,33.03333333,1,20.4,No,IDHwt,noncodel
+R081,PS081,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,58,F,Asian,1,16.9,1,7.133333333,No,IDHwt,noncodel
+R082,PS082,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,49,M,Asian,1,10.63333333,0,2.6,No,IDHwt,noncodel
+R083,PS083,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,50,M,Asian,1,33.73333333,1,15.83333333,No,IDHwt,noncodel
+R084,PS084,NG2016,Glioblastoma; IDH-mutant,Glioblastoma; IDH-mutant,IV,IV,43,F,Asian,1,33.1,1,20.5,Yes,IDHmut,noncodel
+R085,PS085,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,51,M,Asian,1,32.23333333,1,12.9,No,IDHwt,noncodel
+R086,PS086,NG2016,Glioblastoma; IDH-mutant,Glioblastoma; IDH-mutant,IV,IV,29,M,Asian,1,32,0,19,No,IDHmut,noncodel
+R087,PS087,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,37,F,Asian,1,27.43333333,0,18.33333333,No,IDHwt,noncodel
+R088,PS088,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,32,F,Asian,1,25.06666667,1,11.63333333,Yes,IDHwt,noncodel
+R089,PS089,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,41,M,Asian,1,15.2,1,3.466666667,No,IDHwt,noncodel
+R090,PS090,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,44,M,Asian,1,12.93333333,1,5.166666667,No,IDHwt,noncodel
+R091,PS091,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,45,M,Asian,1,12,0,7,No,IDHwt,noncodel
+R092,PS092,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,47,F,Asian,1,10.96666667,1,5.966666667,No,IDHwt,noncodel
+R093,PS093,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,73,M,Asian,1,8.3,0,7.366666667,No,IDHwt,noncodel
+R095,PS095,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,61,F,Asian,1,19.93333333,0,9.166666667,No,IDHwt,noncodel
+R099,PS099,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,57,F,Asian,1,19.4,0,3.133333333,No,IDHwt,noncodel
+R100,PS100,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,45,M,Asian,1,17.8,1,4.766666667,No,IDHwt,noncodel
+R101,PS101,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,63,F,Asian,1,14,1,2.833333333,No,IDHwt,noncodel
+R102,PS102,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,69,M,Asian,1,16.43333333,1,10.23333333,No,IDHwt,noncodel
+R103,PS103,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,55,F,Asian,1,18.56666667,1,3.166666667,No,IDHwt,noncodel
+R104,PS104,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,54,M,Asian,1,27.63333333,0,11.33333333,No,IDHwt,noncodel
+R106,PS106,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,51,M,Asian,1,13.36666667,1,9.533333333,No,IDHwt,noncodel
+R107,PS107,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,52,F,Asian,1,15.8,0,7.066666667,No,IDHwt,noncodel
+R108,PS108,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,56,F,Asian,1,8.633333333,0,4.8,No,IDHwt,noncodel
+R109,PS109,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,51,F,Asian,1,18.66666667,1,11.76666667,No,IDHwt,noncodel
+R110,PS110,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,49,M,Asian,0,8.2,0,2.366666667,No,IDHwt,noncodel
+R111,PS111,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,31,M,Asian,0,14.26666667,1,6.366666667,No,IDHwt,noncodel
+R112,PS112,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,70,F,Asian,0,10.26666667,1,1.433333333,No,IDHwt,noncodel
+R113,PS113,NG2016,Glioblastoma; IDH-wildtype,Glioblastoma; IDH-wildtype,IV,IV,51,F,Asian,1,18.46666667,1,3.133333333,No,IDHwt,noncodel
+R114,PS114,NG2016,Glioblastoma; IDH-mutant,Glioblastoma; IDH-mutant,IV,IV,45,F,Asian,1,74.63333333,0,8.666666667,No,IDHmut,noncodel
+TCGA-DH-A669,PS252,TCGA,Anaplastic Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,Anaplastic Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,III,III,70,M,non-Asian,No Information,30.19,1,8.54,No,IDHmut,codel
+TCGA-DU-5870,PS253,TCGA,Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,Anaplastic Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,II,III,34,F,non-Asian,0,182.19,0,142.81,No,IDHmut,codel
+TCGA-DU-6397,PS255,TCGA,Anaplastic Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,Anaplastic Oligodendroglioma; IDH-mutant and 1p/19q-codeleted,III,IV,45,M,non-Asian,0,46.02,1,27.5,No,IDHmut,codel
+TCGA-DU-6404,PS256,TCGA,Anaplastic Astrocytoma; IDH-wildtype,Diffuse Astrocytoma; IDH-wildtype,III,II,24,F,non-Asian,1,133.64,1,37.91,No,IDHwt,noncodel
+TCGA-DU-6407,PS257,TCGA,Diffuse Astrocytoma; IDH-mutant,Glioblastoma; IDH-mutant,II,IV,35,F,non-Asian,1,94.45,1,78.75,Yes,IDHmut,noncodel
+TCGA-DU-7304,PS258,TCGA,Anaplastic Astrocytoma; IDH-mutant,Anaplastic Astrocytoma; IDH-mutant,III,III,43,M,non-Asian,1,23.29,1,10.15,No,IDHmut,noncodel
+TCGA-FG-5963,PS259,TCGA,Anaplastic Astrocytoma; IDH-wildtype,Glioblastoma; IDH-wildtype,III,IV,23,M,non-Asian,1,25.46,1,16.33,No,IDHwt,noncodel
+TCGA-FG-5965,PS260,TCGA,Diffuse Astrocytoma; IDH-mutant,Glioblastoma; IDH-mutant,II,IV,39,F,non-Asian,1,36.79,1,34,No,IDHmut,noncodel
+TCGA-FG-A4MT,PS261,TCGA,Diffuse Astrocytoma; IDH-mutant,Anaplastic Astrocytoma; IDH-mutant,II,III,27,F,non-Asian,No Information,38.24,0,16.39,No,IDHmut,noncodel
+TCGA-TM-A7CF,PS262,TCGA,Diffuse Astrocytoma; IDH-mutant,Anaplastic Astrocytoma; IDH-mutant,II,III,41,F,non-Asian,No Information,65.34,0,30.35,No,IDHmut,noncodel
+TCGA-TQ-A7RK,PS263,TCGA,Diffuse Astrocytoma; IDH-mutant,Diffuse Astrocytoma; IDH-mutant,II,II,29,M,non-Asian,No Information,44.05,0,28.19,No,IDHmut,noncodel
+TCGA-TQ-A7RV,PS264,TCGA,Diffuse Astrocytoma; IDH-mutant,Diffuse Astrocytoma; IDH-mutant,II,II,27,M,non-Asian,No Information,61.37,0,17.41,No,IDHmut,noncodel
+TCGA-TQ-A8XE,PS265,TCGA,Diffuse Astrocytoma; IDH-mutant,Anaplastic Astrocytoma; IDH-mutant,II,III,42,F,non-Asian,No Information,31.34,1,14.95,No,IDHmut,noncodel
